@@ -1,0 +1,11 @@
+C:\Users\KHATRI\Downloads\Project\Cafe-Management-System-main\Cafe_ManagementTests1\bin\Debug\Cafe_ManagementTests1.dll
+C:\Users\KHATRI\Downloads\Project\Cafe-Management-System-main\Cafe_ManagementTests1\bin\Debug\Cafe_ManagementTests1.pdb
+C:\Users\KHATRI\Downloads\Project\Cafe-Management-System-main\Cafe_ManagementTests1\bin\Debug\Cafe_Management.exe
+C:\Users\KHATRI\Downloads\Project\Cafe-Management-System-main\Cafe_ManagementTests1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\KHATRI\Downloads\Project\Cafe-Management-System-main\Cafe_ManagementTests1\bin\Debug\Cafe_Management.pdb
+C:\Users\KHATRI\Downloads\Project\Cafe-Management-System-main\Cafe_ManagementTests1\bin\Debug\Cafe_Management.exe.config
+C:\Users\KHATRI\Downloads\Project\Cafe-Management-System-main\Cafe_ManagementTests1\obj\Debug\Cafe_ManagementTests1.csproj.AssemblyReference.cache
+C:\Users\KHATRI\Downloads\Project\Cafe-Management-System-main\Cafe_ManagementTests1\obj\Debug\Cafe_ManagementTests1.csproj.CoreCompileInputs.cache
+C:\Users\KHATRI\Downloads\Project\Cafe-Management-System-main\Cafe_ManagementTests1\obj\Debug\Cafe_Man.CED92121.Up2Date
+C:\Users\KHATRI\Downloads\Project\Cafe-Management-System-main\Cafe_ManagementTests1\obj\Debug\Cafe_ManagementTests1.dll
+C:\Users\KHATRI\Downloads\Project\Cafe-Management-System-main\Cafe_ManagementTests1\obj\Debug\Cafe_ManagementTests1.pdb
